@@ -37,4 +37,5 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## 📝 Licença
 
+Desenvolvido por Abner Suhett
 Esse projeto está sob a licença MIT.
