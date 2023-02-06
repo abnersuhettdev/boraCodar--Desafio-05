@@ -32,7 +32,7 @@ A calculadora é quinto projeto da série de desafios #boraCodar da Rocketseat!
 
 ## 🔖 Layout
 
-Visite o deploy <a href="https://abnersuhettdev.github.io/boraCodar-Desafio05/"> aqui !</a>
+Visite o deploy <a href="https://abnersuhettdev.github.io/boraCodar-Desafio-05/"> aqui !</a>
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1202607074523509182). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📝 Licença
