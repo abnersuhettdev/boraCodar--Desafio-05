@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Gif do Chat" src="./img/calculadora.jpg" width="450px"
+  <img alt="Gif do Chat" src="/img/calculadora.JPG" width="450px"
   height="560px">
 </p>
 
