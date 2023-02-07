@@ -18,9 +18,7 @@ body {
 }
 
 #app {
-  width: fit-content;
-  height: fit-content;
-
+  
   padding: 40px;
   border: 2px solid rgba(90, 89, 89, 0.24);
   background-color: #2d2a37;
@@ -33,20 +31,18 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  
 }
 
 #resultado span {
   color: #6b6b6b;
   font-weight: 400;
   font-size: 20px;
+  max-width: 390px;
 }
-
 
 #resultado #currentValue {
   color: #ebebeb;
   font-size: 36px;
-
 }
 
 #botoes {
